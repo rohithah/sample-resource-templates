@@ -4,7 +4,7 @@
     "parameters": {
         "resourceName": {
             "type": "string",
-              "defaultValue": "LogicAppOverview-Template",
+            "defaultValue": "LogicAppOverview-Template",
             "metadata": {
                 "description": "The unique name for this workbook template instance"
             }
@@ -20,11 +20,11 @@
             "properties": {
                 "galleries": [
                   {
-                    "name": "Logic App Overview Workbook Template",
-                    "category": "Deployed Templates",
-                    "order": 100,
-                    "type": "workbook",
-                    "resourceType": "Azure Monitor"
+                      "name": "Logic App Overview Workbook Template",
+                      "category": "Deployed Templates",
+                      "order": 100,
+                      "type": "workbook",
+                      "resourceType": "Azure Monitor"
                   }
                 ],
                 "templateData": {
@@ -55,7 +55,7 @@
                               },
                               "queryType": 1,
                               "resourceType": "microsoft.resourcegraph/resources",
-                                "value": ""
+                              "value": ""
                             },
                             {
                               "id": "51b09579-78ed-42fd-8f11-ab5634b01a8c",
@@ -80,7 +80,7 @@
                               },
                               "queryType": 1,
                               "resourceType": "microsoft.resourcegraph/resources",
-                                "value": ""
+                              "value": ""
                             },
                             {
                               "id": "441bf375-dd40-4b8d-98ed-64778257264c",
@@ -103,7 +103,7 @@
                               "timeContextFromParameter": "TimeRange",
                               "queryType": 1,
                               "resourceType": "microsoft.resourcegraph/resources",
-                                "value": ""
+                              "value": ""
                             },
                             {
                               "id": "4a173d9f-44b6-4cdf-88a3-8c029a764a66",
@@ -202,7 +202,7 @@
                               },
                               "queryType": 0,
                               "resourceType": "microsoft.insights/components",
-                                "value": ""
+                              "value": ""
                             },
                             {
                               "id": "328ac264-297d-4c07-bb85-2fe85b553d93",
