@@ -18,14 +18,14 @@
             "apiVersion": "2019-10-17-preview",
             "dependsOn": [],
             "properties": {
-                "galleries": [
-                  {
-                      "name": "Logic App Overview Workbook Template",
-                      "category": "Deployed Templates",
-                      "order": 100,
-                      "type": "workbook",
-                      "resourceType": "Azure Monitor"
-                  }
+              "galleries": [
+                {
+                    "name": "Logic App Overview Workbook Template",
+                    "category": "Deployed Templates",
+                    "order": 100,
+                    "type": "workbook",
+                    "resourceType": "Azure Monitor"
+                }
                 ],
                 "templateData": {
                     "version": "Notebook/1.0",
