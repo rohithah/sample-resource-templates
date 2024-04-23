@@ -216,7 +216,7 @@
                                   "additionalResourceOptions": [],
                                   "showDefault": false
                                 },
-                                "jsonData": "[\"Succeeded\", \"Failed\", \"Running\"]",
+                                "jsonData": "[[\"Succeeded\", \"Failed\", \"Running\"]",
                                 "timeContext": {
                                   "durationMs": 86400000
                                 },
