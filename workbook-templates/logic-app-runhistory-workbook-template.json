@@ -474,7 +474,9 @@
                                               "responseType": "json",
                                               "httpMethod": "POST",
                                               "applyToMultipleResourcesParameter": "runResourceId",
-                                              "description": "# Actions can potentially modify resources.\n## Please use caution and include a confirmation message in this description when authoring this command.",
+                                              "title": "Bulk Resubmit",
+                                              "description": "# This action will trigger new runs using the same trigger data from the selected runs.",
+                                              "actionName": "Bulk Resubmit",
                                               "runLabel": "Bulk Resbmit"
                                             }
                                           }
